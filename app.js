@@ -11,7 +11,9 @@ var app = require('http').createServer(handler)
 
 
 //Make a web server on port 8080
-//
+//this is the test ...please check the commit 
+
+
 var file = new(static.Server)();
 function handler(request, response) 
 {
